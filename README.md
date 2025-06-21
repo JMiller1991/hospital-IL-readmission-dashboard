@@ -1,5 +1,7 @@
 # Illinois Hospital Readmission Dashboard
 
+![Made with Power BI](https://img.shields.io/badge/Made%20with-Power%20BI-yellow?logo=powerbi)
+
 This Power BI dashboard analyzes hospital readmissions in Illinois using publicly available data.
 
 ## 📊 Visuals Included
