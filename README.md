@@ -22,3 +22,8 @@ This Power BI dashboard analyzes hospital readmissions in Illinois using publicl
 - Surgical care improvement is the top cause of readmissions
 - Chicago hospitals dominate the high-volume readmission list
 - Interactive filters allow hospital-specific condition insights
+
+## 📂 Data Source
+
+Data obtained from [Kaggle – Hospital Readmission Rates Dataset](https://www.kaggle.com/datasets/andyczhao/hospital-readmission-rates).  
+Original source: Centers for Medicare & Medicaid Services (CMS)
