@@ -30,7 +30,7 @@ This Power BI dashboard analyzes hospital readmissions in Illinois using publicl
 Data obtained from [Kaggle – Hospital Readmission Rates Dataset](https://www.kaggle.com/datasets/thedevastator/hospital-care-quality-measures).  
 Original source: Centers for Medicare & Medicaid Services (CMS)
 
-🔧 Data Preparation
+🔧 Data Preparation:
 The original dataset included nationwide hospital readmission data. For the purpose of this analysis, I filtered the data to include only Illinois hospitals, focusing specifically on the Chicago metropolitan area. I also performed data cleaning to remove duplicates, standardize hospital names, and ensure consistency across fields such as city, condition type, and readmission scores.
 
 Data transformations were performed using Power BI’s Power Query Editor, including column filtering, type conversion, and renaming for clarity
