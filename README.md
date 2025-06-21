@@ -10,8 +10,8 @@ This Power BI dashboard analyzes hospital readmissions in Illinois using publicl
 - Hospital slicer to filter conditions
 
 ## 📁 Files
-- `IL_Hospital_Readmission_Dashboard.pbix`: Power BI project file
-- `dashboard_preview.png`: Screenshot of the full dashboard
+- `IL_HSP_READMISSION_RATES.pbix`: Power BI project file
+- `IL READMISSION POWER BI DASHBOARD.png`: Screenshot of the full dashboard
 
 ## 🔍 Tools Used
 - Power BI
