@@ -25,5 +25,5 @@ This Power BI dashboard analyzes hospital readmissions in Illinois using publicl
 
 ## 📂 Data Source
 
-Data obtained from [Kaggle – Hospital Readmission Rates Dataset](https://www.kaggle.com/datasets/andyczhao/hospital-readmission-rates).  
+Data obtained from [Kaggle – Hospital Readmission Rates Dataset](https://www.kaggle.com/datasets/thedevastator/hospital-care-quality-measures).  
 Original source: Centers for Medicare & Medicaid Services (CMS)
